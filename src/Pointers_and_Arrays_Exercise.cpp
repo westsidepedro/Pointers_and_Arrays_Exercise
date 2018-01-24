@@ -12,7 +12,7 @@ using namespace std;
 /*
  * 1. loop through an array using point, with array element reference syntax
  *
- * 2. loop through an array by using incrementing a pointer
+ * 2. loop through an array by using incrementing a pointer ____HI
  *
  * 3. loop through an array stopping by comparing 2 pointers
  *
